@@ -20,6 +20,12 @@ Binary outcomes were analyzed using modified Poisson regression. Continuous outc
 
 ## Files
 
+### `variable_list.md`
+
+Summarizes the main study variables used in the analysis do-files.
+
+The file includes group variables, baseline and PBSC collection variables, primary and secondary outcomes, and variables used in exploratory regression analyses.
+
 ### `master.do`
 
 Runs all analysis modules in order.
