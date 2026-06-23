@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1277674761.svg)](https://doi.org/10.5281/zenodo.20813642)
+
 # pbsc-citrate-supplement-rct
 
 This repository contains selected Stata do-files produced as part of statistical analysis for a prospective randomized controlled trial of prophylactic oral calcium-vitamin D3-magnesium supplementation during peripheral blood stem cell (PBSC) collection in healthy donors.
