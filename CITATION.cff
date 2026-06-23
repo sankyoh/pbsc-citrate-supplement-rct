@@ -9,3 +9,10 @@ date-released: 2026-06-23
 repository-code: "https://github.com/sankyoh/pbsc-citrate-supplement-rct"
 license: MIT
 message: "If you use these materials, please cite the archived version."
+abstract: "Selected Stata do-files from statistical analysis support for a randomized controlled trial of prophylactic oral calcium-vitamin D3-magnesium supplementation during peripheral blood stem cell collection in healthy donors."
+keywords:
+  - Stata
+  - randomized controlled trial
+  - peripheral blood stem cell collection
+  - citrate-related reaction
+  - statistical analysis
